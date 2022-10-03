@@ -1,4 +1,4 @@
-# PasswordGenerator
+# Password Generator
 
 ```
 This is an interactive password generator, press the button "Generate Password" and indicate the conditions in the prompts:
